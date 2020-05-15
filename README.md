@@ -1,6 +1,6 @@
 # Human Priors and Deep Reinforcement Learning for Video Games
 
-This is the project for **Computational Cognitive Modeling Course** https://brendenlake.github.io/CCM-site/ under **Professor Dr. Brenden Lake and Dr. Todd Gureckis.**
+This is the project for **Computational Cognitive Modeling Course NYU PSYCH-GA 3405.002 / DS-GA 1016** https://brendenlake.github.io/CCM-site/ under **Professor Dr. Brenden Lake and Dr. Todd Gureckis.**
 
 Here we analyze on how having a prior knowledge is helpful for humans in playing video games and compares its game play with that of an Reinforcement Learning Agent. We try to answer the questions:
 
