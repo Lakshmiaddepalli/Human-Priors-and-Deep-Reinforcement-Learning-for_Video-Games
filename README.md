@@ -12,4 +12,4 @@ We consider the Flappy Bird Video Game, and conduct different experiments to get
 
 **Keywords:Reinforcement Learning; Human Understanding; Exploration; Priors; Deep Q Learning; Dueling DQN; Convolutional Neural Networks; Semantics; Affordances; Cognitive Modelling; Flappy Bird** 
 
-[!ScreenShot][RLArchitecture.png]
+![ScreenShot][RLArchitecture.png]
