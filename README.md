@@ -11,3 +11,5 @@ Here we analyze on how having a prior knowledge is helpful for humans in playing
 We consider the Flappy Bird Video Game, and conduct different experiments to get a quantitative aspect of how important having prior knowledgehelps in the performance of humans.  We modify the environment on various basis, some being masking visual information or important information needed for efficient game-play and provide a comparison of results between human and an RL agent performance.
 
 **Keywords:Reinforcement Learning; Human Understanding; Exploration; Priors; Deep Q Learning; Dueling DQN; Convolutional Neural Networks; Semantics; Affordances; Cognitive Modelling; Flappy Bird** 
+
+[!screenshots][]
